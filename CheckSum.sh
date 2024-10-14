@@ -4,7 +4,7 @@
 ## Checksum/Hash Script ##
 
 ## This script will take the files at two file paths, run a checksum, and compare the hashes.
-## This can be used for data verification on large files.
+## This can be used for data verification on large files
 
 # Ask the user for the path of the first file
 echo "Please enter the path of the first file:"
