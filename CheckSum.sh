@@ -1,6 +1,6 @@
 #!/bin/bash
 
-## ACD - 3/30/24
+## ACD - 
 ## Checksum/Hash Script ##
 
 ## This script will take the files at two file paths, run a checksum, and compare the hashes.

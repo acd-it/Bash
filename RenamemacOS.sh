@@ -1,6 +1,6 @@
 #!/bin/bash
 
-## ACD - 6/6/23
+## ACD - 
 ## Rename One Machine Script ##
 
 ## This script is for IT Admins to manually use to rename one machine. This can helpful
